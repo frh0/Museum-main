@@ -1,5 +1,4 @@
 # Museum
-Team13 - Museum
 
 
 
