@@ -13,11 +13,11 @@ App Statement
 
 ### Feature List
 
-- > Create new masterpieces.
-- > Get and display to the user.
-- > Create masterpieces information.
-- > Update and delete masterpieces information.
-- > create and update masterpiece description .
+ > Create new masterpieces.
+ > Get and display to the user.
+ > Create masterpieces information.
+ > Update and delete masterpieces information.
+ > create and update masterpiece description .
 
 Database Schema
 
