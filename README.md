@@ -13,7 +13,7 @@ App Statement
 
 ### Feature List
 
-- -Create new masterpieces.
+- > -Create new masterpieces.
 - _Get and display to the user.
 - _Create masterpieces information.
 - -Update and delete masterpieces information.
