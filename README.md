@@ -36,5 +36,5 @@ ER Diagram, (UML) diagram or any method you used to represent your database sche
 
 ## Artist Table
 
-
+https://user-images.githubusercontent.com/117020066/226618642-f24177e3-73aa-467b-9453-17bcd61f8d66.png
 
