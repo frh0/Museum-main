@@ -20,7 +20,7 @@ App Statement
 
 Database Schema
 
-ER Diagram, (UML) diagram or any method you used to represent your database schema.
+ (UML) diagram .
 
 <img width="727" alt="Screenshot 1444-08-29 at 4 22 09 PM" src="https://user-images.githubusercontent.com/117020066/226618868-64d24be5-d3e0-420e-b369-e0032d11b309.png">
 
@@ -54,5 +54,8 @@ ER Diagram, (UML) diagram or any method you used to represent your database sche
 ## update route result 
 <img width="758" alt="Screenshot 1444-08-30 at 1 49 46 AM" src="https://user-images.githubusercontent.com/90031791/226759179-5473a824-2152-4221-92f2-0ca1445bbfe1.png">
 
+
+## Delete route 
+<img width="536" alt="Screenshot 1444-08-30 at 1 50 56 AM" src="https://user-images.githubusercontent.com/90031791/226759409-8fdfadff-fb4d-4d76-85d8-d97f79dc6c92.png">
 
 
