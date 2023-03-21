@@ -5,19 +5,19 @@ Team13 - Museum
 
 ## Solution Concept
 
-💡 A virtual museum for paintings and their information (Artists, descriptions, etc)
+> 💡 A virtual museum for paintings and their information (Artists, descriptions, etc)
 
 App Statement
 
-💡Creating a database and API of artists and their artworks to allow users to browse the virtual museum
+> 💡Creating a database and API of artists and their artworks to allow users to browse the virtual museum
 
 ### Feature List
 
- > Create new masterpieces.
- > Get and display to the user.
- > Create masterpieces information.
- > Update and delete masterpieces information.
- > create and update masterpiece description .
+-> Create new masterpieces.
+ - Get and display to the user.
+ - Create masterpieces information.
+ - Update and delete masterpieces information.
+ -  create and update masterpiece description .
 
 Database Schema
 
